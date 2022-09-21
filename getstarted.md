@@ -73,7 +73,7 @@ Fork this project by clicking the __*Fork*__ button at the top right corner of t
 
 </div>
 
-<div class="ge-section-02" markdown="1">
+<div class="gs-section-02" markdown="1">
 
 ### 2. Rename the project to `<yourusername>.github.io`
 
@@ -81,7 +81,7 @@ Click on __*Settings*__ at the top (the cog icon) and on that page you'll have a
 
 </div>
 
-<div class="ge-section-03" markdown="1">
+<div class="gs-section-03" markdown="1">
 
 ### 3. Customize your website settings
 
@@ -93,7 +93,7 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 
 </div>
 
-<div class="ge-section-04" markdown="1">
+<div class="gs-section-04" markdown="1">
 
 ### 4. Congratulations! You have a website!
 
@@ -107,20 +107,24 @@ Note that this was the easy way to *create* your website, but it does come at a 
 
 .gs-section-01 h3 { 
      color: red;
-     font-family: Montserrat;}
+     font-family: Montserrat;
+     }
 
 .gs-section-01 p {
      font-size: 30px;
      font-family: Montserrat;
+     background-color: green;
 }
 
 .gs-section-02 h3 { 
      color: red;
-     font-family: montserrat;}
+     font-family: montserrat;
+     }
      
 .gs-section-03 h3 { 
      color: blue;
-     font-face: bold;}
+     font-face: bold;
+     }
      
 .gs-section-04 h3 { 
      color: green;
