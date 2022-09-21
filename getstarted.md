@@ -116,7 +116,7 @@ Note that this was the easy way to *create* your website, but it does come at a 
      background-color: green;
 }
 
-.gs-section-02 h3 { 
+.gs-section-02 p { 
      color: red;
      font-family: montserrat;
      }
@@ -129,7 +129,12 @@ Note that this was the easy way to *create* your website, but it does come at a 
 .gs-section-04 h3 { 
      color: green;
      font-family: times new roman;
-     background-color: green;
      }
+
+ .gs-section-04 p { 
+     color: green;
+     font-family: times new roman;
+     }
+
      
 </style>
