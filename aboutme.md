@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-My name is Fernando Gomez. I 
+My name is Fernando Gomez.
 
 ### Background
 
